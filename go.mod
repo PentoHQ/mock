@@ -1,3 +1,3 @@
 module github.com/golang/mock
 
-require golang.org/x/tools v0.0.0-20190425150028-36563e24a262
+require golang.org/x/tools v0.0.0-20190214195451-78f9822548c1
